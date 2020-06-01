@@ -1,6 +1,6 @@
 # DO NOT FORK OR STAR!
 先
-sodu -t
+sudo -t
 
 cd /usr/src && wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 
