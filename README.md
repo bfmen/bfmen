@@ -9,7 +9,7 @@ yum -y install wget
 
 安装 trojan
 
-curl -O https://raw.githubusercontent.com/bfmen/bfmen/master/trojan_mult.sh && chmod +x trojan_install.sh && ./trojan_install.sh
+curl -O https://raw.githubusercontent.com/bfmen/bfmen/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
 
 安装bbr 建议选择bbrplus，综合流量与速度考虑。
 
